@@ -1,6 +1,6 @@
 {
   "name": "logger",
-  "homepage": "https://github.com/AqueousSolution/repairs_logger",
+  "homepage": "https://aqueoussolution.github.io/repairs_logger/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
