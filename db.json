@@ -1,0 +1,48 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard-drive",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Terry G"
+    },
+    {
+      "id": 2,
+      "message": "Fixed internet",
+      "attention": true,
+      "date": "03-02-2020",
+      "tech": "Naira marley"
+    },
+    {
+      "message": "Landline Installation",
+      "attention": "false",
+      "date": "03-22-2020",
+      "tech": "wande coal",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Terry",
+      "lastname": "G"
+    },
+    {
+      "id": 2,
+      "firstname": "Naira",
+      "lastname": "marley"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "firstname": "wande",
+      "lastname": "coal",
+      "id": 5
+    }
+  ]
+}
